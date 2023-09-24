@@ -1,8 +1,22 @@
-# React + Vite
+# PhoneShop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+>-packages
 
-Currently, two official plugins are available:
+- tailwind
+- daisy Ui
+- vite
+- react-router-dom
+- react-icons
+- svg-icons
+- npm sweet alert
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>-Futures.
+
+- dynamic card display ,when  select card show the card details.
+- card details add to cart button added .
+- when add to card click your cart added your favorites cart
+- if one card selected to try again display error toast
+- here we added a super beautifull error page .
+- here  we added static user login page
+- responsive for all device 
+
