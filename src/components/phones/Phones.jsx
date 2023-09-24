@@ -1,5 +1,11 @@
 import PhonesCard from "../phonesCard/PhonesCard";
 
+import PropTypes from 'prop-types'
+
+
+
+
+
 
 export default function Phones({phones}) {
    
@@ -13,4 +19,10 @@ export default function Phones({phones}) {
     </div>
   </div>
   )
+}
+
+
+
+Phones.propTypes = {
+phones:PropTypes.array,
 }
